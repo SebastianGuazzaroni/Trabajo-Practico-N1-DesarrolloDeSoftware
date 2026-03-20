@@ -1,5 +1,4 @@
 # Desarrollo-de-Software-2026
-Trabajos practicos de la materia Desarrollo de software
-Trabrajos practicos de la materia Desarrollo de software
-
-https://github.com/SebastianGuazzaroni/Desarrollo-de-Software-2026.git
+Trabajo practico N° 1 Desarrollo de software
+Sitio web Portafolio de desarrollo 
+https://github.com/SebastianGuazzaroni/Trabajo-Practico-N1-DesarrolloDeSoftware.git
